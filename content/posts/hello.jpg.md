@@ -10,5 +10,4 @@ color = "" #color from the theme settings
 # Hello 
 
 Welcome, thanks for visiting! The content on this blog will be some
-intersection of math, computing, and whatever else I find interesting. 
-Thanks for visiting!
+intersection of math, computing, and whatever else I find interesting. Stay tuned for more.
